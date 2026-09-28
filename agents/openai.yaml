@@ -1,0 +1,4 @@
+interface:
+  display_name: "Format Obsidian Notes"
+  short_description: "Compact and repair Obsidian Markdown safely"
+  default_prompt: "Use $format-obsidian-notes to compact this Obsidian Markdown note and verify its formulas, tables, callouts, and local links."
